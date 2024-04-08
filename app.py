@@ -28,7 +28,7 @@ result_display = st.container()
 
 #creating Headers
 with subheader1:
-    st.subheader("Enter the Address or Zipcode you want to search for (Test)")
+    st.subheader("Enter the Address or Zipcode you want to search for")
 
 with header:
     st.title("KO Storage")
